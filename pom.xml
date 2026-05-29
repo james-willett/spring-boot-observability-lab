@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.willlabs</groupId>
 	<artifactId>spring-boot-observability-lab</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>spring-boot-observability-lab</name>
 	<description>Pluralsight Cloud Lab - Spring Boot 4 observability demo</description>
 	<url/>
